@@ -35,11 +35,7 @@ def get_config(config: str):
 DB_LINK = get_config("db_link")
 # DB_LINK = "sqlite+aiosqlite:///data.db"
 
-db_mutex = (
-    Semaphore(1, loop=create(asyncio.AbstractEventLoop))
-    if DB_LINK.startswith("sqlite")
-    else None
-)
+db_mutex = Semaphore(1) if DB_LINK.startswith("sqlite") else None
 
 
 class AsyncEngine:
