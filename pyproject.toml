@@ -42,7 +42,7 @@ pypinyin = "^0.46.0"
 creart = "^0.2.1"
 
 [tool.poetry.dev-dependencies]
-numpy = "^1.22.4"
+numpy = "^1.23.1"
 Pillow-PIL = "^0.1dev"
 pydantic = "^1.9.1"
 python-dateutil = "^2.8.2"
