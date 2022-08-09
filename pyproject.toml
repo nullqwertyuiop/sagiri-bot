@@ -6,7 +6,7 @@ authors = ["SAGIRI-kawaii"]
 license = "AGPL-3.0 license"
 
 [tool.poetry.dependencies]
-python = ">=3.8"
+python = "^3.8"
 aiohttp = "^3.8.1"
 beautifulsoup4 = "^4.11.1"
 graia-scheduler = "^0.0.7"
