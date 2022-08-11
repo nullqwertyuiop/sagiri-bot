@@ -38,7 +38,7 @@ markdown = "^3.3.7"
 requests = "^2.27.1"
 picimagesearch = "^3.3.2"
 scipy = "^1.8.1"
-pypinyin = "^0.46.0"
+pypinyin = "^0.47.0"
 creart = "^0.2.1"
 chardet = "^5.0.0"
 

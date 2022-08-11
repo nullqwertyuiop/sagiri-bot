@@ -1183,7 +1183,7 @@ reference = "tsinghua"
 
 [[package]]
 name = "pypinyin"
-version = "0.46.0"
+version = "0.47.0"
 description = "汉字拼音转换模块/工具."
 category = "main"
 optional = false
@@ -1654,7 +1654,7 @@ reference = "tsinghua"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "4a37f88b3b259236b4019a589e5914568bc8c37d098ad1db196b987810cd76b8"
+content-hash = "e0c1df8d7e225115fcc9bbed55af0e0f759840698e84e1f5b3ddf78b47df2dd3"
 
 [metadata.files]
 aiodns = [
@@ -2744,8 +2744,8 @@ pyparsing = [
     {file = "pyparsing-3.0.9.tar.gz", hash = "sha256:2b020ecf7d21b687f219b71ecad3631f644a47f01403fa1d1036b0c6416d70fb"},
 ]
 pypinyin = [
-    {file = "pypinyin-0.46.0-py2.py3-none-any.whl", hash = "sha256:7251f4fa0b1e43ad91f6121d9a842e8acd72a6a34deea5e87d2a97621eadc11f"},
-    {file = "pypinyin-0.46.0.tar.gz", hash = "sha256:0d2e41e95dbc20a232c0f5d3850654eebbfcba303d96358d2c46592725bb989c"},
+    {file = "pypinyin-0.47.0-py2.py3-none-any.whl", hash = "sha256:6320bf20256879cf7cff2f8a0d5d8fbaa114b4d5d6dc205a1c6d65c3c143217f"},
+    {file = "pypinyin-0.47.0.tar.gz", hash = "sha256:021d50bad961bf6807881b156c38a17fe4e83bedf9c506e97c1dc1be58678ee0"},
 ]
 pyquery = [
     {file = "pyquery-1.4.3-py3-none-any.whl", hash = "sha256:1fc33b7699455ed25c75282bc8f80ace1ac078b0dda5a933dacbd8b1c1f83963"},
