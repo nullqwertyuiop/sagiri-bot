@@ -568,7 +568,7 @@ reference = "tsinghua"
 
 [[package]]
 name = "graiax-silkcoder"
-version = "0.3.1"
+version = "0.3.2"
 description = "transform audio file to silk"
 category = "main"
 optional = false
@@ -1635,7 +1635,7 @@ reference = "tsinghua"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "119a08d213b8e5b6313f80f3a8d1d64e26eb9c36b54f5dda7f3e5b38fcefc13f"
+content-hash = "218f60c90ef470d144c0aec15db83007f8683af47bf2ab38409fcc84cca0e3f7"
 
 [metadata.files]
 aiodns = [
@@ -2046,25 +2046,25 @@ graia-scheduler = [
     {file = "graia_scheduler-0.0.8-py3-none-any.whl", hash = "sha256:73515cc46a71e7e9c5b48825b20df3fa8d97f5708637d6cf29e51b152294c0fa"},
 ]
 graiax-silkcoder = [
-    {file = "graiax-silkcoder-0.3.1.tar.gz", hash = "sha256:37b76153ac13d7c7bc15c4a60309b72b21e88a122a03cefefb760e43c24f166c"},
-    {file = "graiax_silkcoder-0.3.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:a70cf5229e6c3aed9cd0a80d1c8bc6c70a0e3b3d1b79aadad84c290525d8df08"},
-    {file = "graiax_silkcoder-0.3.1-cp310-cp310-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl", hash = "sha256:83a99d8ac6cdf70d779e89505f52f8b3763e2c2923e9de15ca36a83d1c43ed53"},
-    {file = "graiax_silkcoder-0.3.1-cp310-cp310-musllinux_1_1_i686.whl", hash = "sha256:3de6967f37e46a582fb1146ede1cc9abd275b9290cd975ccf5436670e6689c1a"},
-    {file = "graiax_silkcoder-0.3.1-cp310-cp310-musllinux_1_1_x86_64.whl", hash = "sha256:1ea98a161e36e335dc240bc9c76f68686493d2c8a5d4dc1dfe0e814d78f85d8f"},
-    {file = "graiax_silkcoder-0.3.1-cp310-cp310-win32.whl", hash = "sha256:520d1d03d5d75499f6d68d4fb67b8d7b81d8ff61754d6e4a95a96b426e1a2d30"},
-    {file = "graiax_silkcoder-0.3.1-cp310-cp310-win_amd64.whl", hash = "sha256:a4505bce43b4ba1c1112000d7f270af6b8ff3754d8ca8d82e03d3757545e8960"},
-    {file = "graiax_silkcoder-0.3.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:2a03b90a5d3e5cd3fd6a912170bd5112b73032a8177446b1481b9f6a4d1c15a4"},
-    {file = "graiax_silkcoder-0.3.1-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl", hash = "sha256:48885005a6a9525c7d81001739fb6d0858f5ec8dcc2136edcdf0a9a88e9038eb"},
-    {file = "graiax_silkcoder-0.3.1-cp38-cp38-musllinux_1_1_i686.whl", hash = "sha256:8c8cdf40068943b841edd47a8276e98eef6b9c459f2c61f89f8e2682637fbd7b"},
-    {file = "graiax_silkcoder-0.3.1-cp38-cp38-musllinux_1_1_x86_64.whl", hash = "sha256:2236f98149a69e4ecd9ac2cee83fa77ecd247b65a390a12faeee84ed0e91560c"},
-    {file = "graiax_silkcoder-0.3.1-cp38-cp38-win32.whl", hash = "sha256:b8b25d591d9696cf68c3b460a5abbe9f8d5f7887fb924216e6899158df142b84"},
-    {file = "graiax_silkcoder-0.3.1-cp38-cp38-win_amd64.whl", hash = "sha256:969859a7aad5c6f06d3197748c6a905394521803a6caf96d8cc9fc44252e3619"},
-    {file = "graiax_silkcoder-0.3.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:97702e0492e947388b95c009c2fc82aa836fa6e8f77da21067827d7247eac715"},
-    {file = "graiax_silkcoder-0.3.1-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl", hash = "sha256:490dfef55512e79eff1a51930b0f57e506dc92ec882fa59870ad184443ae3399"},
-    {file = "graiax_silkcoder-0.3.1-cp39-cp39-musllinux_1_1_i686.whl", hash = "sha256:8b0779df30278801c735eb94240663fcfd1d466dba487f4c59f08844b1787100"},
-    {file = "graiax_silkcoder-0.3.1-cp39-cp39-musllinux_1_1_x86_64.whl", hash = "sha256:d247cff6547f001e91f1b653bc19c8536d56142f1bb0739f914681fa7c4b51aa"},
-    {file = "graiax_silkcoder-0.3.1-cp39-cp39-win32.whl", hash = "sha256:32d4e8b784eae79740bc1dad405d93cc23f2c300c5ab4bbdf66e15ca49d8b232"},
-    {file = "graiax_silkcoder-0.3.1-cp39-cp39-win_amd64.whl", hash = "sha256:cbad8fe833eac0b595e36ae22c13c2a1f4af59d2ba4e8341be70e56bf0b6bfc2"},
+    {file = "graiax-silkcoder-0.3.2.tar.gz", hash = "sha256:654ba9ca7412bb2728d0830c52e3acca2b2c2bc6f1d10d81367d281f62b117b1"},
+    {file = "graiax_silkcoder-0.3.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:f038f31dba5c097b12830b149b43f092578291a287659bc813fa1e879ca9202b"},
+    {file = "graiax_silkcoder-0.3.2-cp310-cp310-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl", hash = "sha256:9cd1e724e19dcb5708a4a4c1c63ccf8f4ea04c9fedf80f9504a4da5ca3906ba9"},
+    {file = "graiax_silkcoder-0.3.2-cp310-cp310-musllinux_1_1_i686.whl", hash = "sha256:3a3bc677490a5981739978f88d2ae6fb7daa779c8a2d3ff90f70132550f98d4d"},
+    {file = "graiax_silkcoder-0.3.2-cp310-cp310-musllinux_1_1_x86_64.whl", hash = "sha256:48a1423d8ddbfbe2873e98d971171bd7df0b098ed0bdc8f88b806b36ecae71cb"},
+    {file = "graiax_silkcoder-0.3.2-cp310-cp310-win32.whl", hash = "sha256:b3c8eb4700c8de345e004f63e92cf8555e3e6c83e9080135280e99445c370fc5"},
+    {file = "graiax_silkcoder-0.3.2-cp310-cp310-win_amd64.whl", hash = "sha256:972cc207a59ebc29a935e249bf6f8b4fcb4068cb655984b11f94a4df71781860"},
+    {file = "graiax_silkcoder-0.3.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:5243ef164c7f145efa8d4c5dcd99e7c09898585e35cdc3f60a1e02dadf05cc63"},
+    {file = "graiax_silkcoder-0.3.2-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl", hash = "sha256:704b1823392655c29976b63772b4439a585a4412212df61ea1e3bcc80578a347"},
+    {file = "graiax_silkcoder-0.3.2-cp38-cp38-musllinux_1_1_i686.whl", hash = "sha256:4a22f9683e57f9513596dd2fdcfe25d5ba85b1d33d98439b2748ae9695619c8a"},
+    {file = "graiax_silkcoder-0.3.2-cp38-cp38-musllinux_1_1_x86_64.whl", hash = "sha256:021802368ddf901e328b5826b6685f0be2aed428e774fbb407b4a3cf30979b18"},
+    {file = "graiax_silkcoder-0.3.2-cp38-cp38-win32.whl", hash = "sha256:61a2f34e91c5ec165206a7b0c2b9858f2d9eea8c585b8c4ef2f122f36459ee02"},
+    {file = "graiax_silkcoder-0.3.2-cp38-cp38-win_amd64.whl", hash = "sha256:f5607bf0cc93247452433470877374013dbf2c71149aeca7aa3a2057d6c64727"},
+    {file = "graiax_silkcoder-0.3.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl", hash = "sha256:5fadf9a68b0271bb6992cc069c69347998fa923a498c4f321090e91a173a1360"},
+    {file = "graiax_silkcoder-0.3.2-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl", hash = "sha256:670aad0c1189a6bdeb3175b55e0eca38fb24ae3f00347a9c5b5c5592ae5354aa"},
+    {file = "graiax_silkcoder-0.3.2-cp39-cp39-musllinux_1_1_i686.whl", hash = "sha256:a8dae799169a4dadc67f2c92c733b87add372a352b9d3c0ac166192025050cf0"},
+    {file = "graiax_silkcoder-0.3.2-cp39-cp39-musllinux_1_1_x86_64.whl", hash = "sha256:c0c696ccd159b5f40ca243f2846266c222df7076bc9bd465f76819480f41f560"},
+    {file = "graiax_silkcoder-0.3.2-cp39-cp39-win32.whl", hash = "sha256:44b8a65e9fc069ba9636fe9fa16f18b6ac0752104e17c8e03b729b9349c641bf"},
+    {file = "graiax_silkcoder-0.3.2-cp39-cp39-win_amd64.whl", hash = "sha256:1c8aeb6ca61184881aca55f726ca598f8474f894235e0c72c6e451653265bfc2"},
 ]
 greenlet = [
     {file = "greenlet-1.1.2-cp27-cp27m-macosx_10_14_x86_64.whl", hash = "sha256:58df5c2a0e293bf665a51f8a100d3e9956febfbf1d9aaf8c0677cf70218910c6"},
