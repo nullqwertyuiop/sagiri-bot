@@ -1438,7 +1438,7 @@ reference = "tsinghua"
 
 [[package]]
 name = "tencentcloud-sdk-python"
-version = "3.0.711"
+version = "3.0.712"
 description = "Tencent Cloud SDK for Python"
 category = "main"
 optional = false
@@ -1635,7 +1635,7 @@ reference = "tsinghua"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "119a08d213b8e5b6313f80f3a8d1d64e26eb9c36b54f5dda7f3e5b38fcefc13f"
+content-hash = "37dc1ee6d9a389712b1c3d80b72b6847ebc3a07899d2859f64b4af931969aa89"
 
 [metadata.files]
 aiodns = [
@@ -2855,8 +2855,8 @@ statv = [
     {file = "statv-0.3.1.tar.gz", hash = "sha256:6e3dd3556849140572cd737f2de4b8fbc9b9573a043496a64ca33d7e6db3a157"},
 ]
 tencentcloud-sdk-python = [
-    {file = "tencentcloud-sdk-python-3.0.711.tar.gz", hash = "sha256:e0b9490a255b30389edc49db9d118746349429bc407742f76d7b22cc14594f45"},
-    {file = "tencentcloud_sdk_python-3.0.711-py2.py3-none-any.whl", hash = "sha256:171225116a180405b58279145cd3c1b9f19fad67368f27e981739239d1c0e026"},
+    {file = "tencentcloud-sdk-python-3.0.712.tar.gz", hash = "sha256:64e302373018e62c2190aea66e3546e50ab1f00cffbb94f1e395ad8e3f37f56c"},
+    {file = "tencentcloud_sdk_python-3.0.712-py2.py3-none-any.whl", hash = "sha256:b162ce057b27b955a4bd4001b025499e4763afb9ae61cbca12372c879b3af010"},
 ]
 tomli = [
     {file = "tomli-2.0.1-py3-none-any.whl", hash = "sha256:939de3e7a6161af0c887ef91b7d41a53e7c5a1ca976325f429cb46ea9bc30ecc"},
