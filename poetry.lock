@@ -2174,7 +2174,7 @@ reference = "tsinghua"
 
 [[package]]
 name = "tencentcloud-sdk-python"
-version = "3.0.712"
+version = "3.0.715"
 description = "Tencent Cloud SDK for Python"
 category = "main"
 optional = false
@@ -4146,8 +4146,8 @@ tb-nightly = [
     {file = "tb_nightly-2.11.0a20220812-py3-none-any.whl", hash = "sha256:bb76dadb495f015ea493a901af5c7f54ca16640e6ca93ad4688df378b3bb7e96"},
 ]
 tencentcloud-sdk-python = [
-    {file = "tencentcloud-sdk-python-3.0.712.tar.gz", hash = "sha256:64e302373018e62c2190aea66e3546e50ab1f00cffbb94f1e395ad8e3f37f56c"},
-    {file = "tencentcloud_sdk_python-3.0.712-py2.py3-none-any.whl", hash = "sha256:b162ce057b27b955a4bd4001b025499e4763afb9ae61cbca12372c879b3af010"},
+    {file = "tencentcloud-sdk-python-3.0.715.tar.gz", hash = "sha256:9bfe58757fbfd6b2751bbe93ab79f6b4a108a62120bdd42a08eb13198a0ba37b"},
+    {file = "tencentcloud_sdk_python-3.0.715-py2.py3-none-any.whl", hash = "sha256:a551d7de4ecb37fda5c5e58fe31f276d7047564085dd17fb1d25a2baa78e04e6"},
 ]
 tensorboard-data-server = [
     {file = "tensorboard_data_server-0.6.1-py3-none-any.whl", hash = "sha256:809fe9887682d35c1f7d1f54f0f40f98bb1f771b14265b453ca051e2ce58fca7"},
